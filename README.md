@@ -15,7 +15,7 @@ A simple React Native application that displays a list of products fetched from 
 - Frontend: React Native (React Navigation, Animated) 
 
 # Folder Structure
-![fs](https://github.com/Mirza-Hassan/React_Native_ProductsTask/assets/17096257/72d88fce-ed6b-432b-8849-b8c444cb82c1)
+![fss](https://github.com/Mirza-Hassan/React_Native_ProductsTask/assets/17096257/59d4e73a-4491-424d-b102-8ddb721e211a)
 
 # Setup Instructions
 
