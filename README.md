@@ -8,13 +8,14 @@ A simple React Native application that displays a list of products fetched from 
 - [Pre Requisites](#pre-requisites)
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
+- [Screenshot](#screenshot)
 
 # Pre Requisites
 
 - Frontend: React Native
 
 # Folder Structure
-![fs](https://github.com/Mirza-Hassan/React_Native_ProductsTask/assets/17096257/002bfdd8-ef9a-4f6b-a565-3b7bdae04fcc)
+![fs](https://github.com/Mirza-Hassan/React_Native_ProductsTask/assets/17096257/72d88fce-ed6b-432b-8849-b8c444cb82c1)
 
 # Setup Instructions
 
@@ -36,3 +37,9 @@ For iOS:
 ```
 npx react-native run-ios
 ```
+
+# Screenshot
+
+![SS(1)](https://github.com/Mirza-Hassan/React_Native_ProductsTask/assets/17096257/79b7c97d-7e6f-46e7-aa25-a2f100c13aea)
+
+![SS(2)](https://github.com/Mirza-Hassan/React_Native_ProductsTask/assets/17096257/af404718-ba94-4837-af7e-26b714bd81fc)
