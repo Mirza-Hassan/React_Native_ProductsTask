@@ -40,6 +40,6 @@ npx react-native run-ios
 
 # Screenshot
 
-![SS(1)](https://github.com/Mirza-Hassan/React_Native_ProductsTask/assets/17096257/79b7c97d-7e6f-46e7-aa25-a2f100c13aea)
-
 ![SS(2)](https://github.com/Mirza-Hassan/React_Native_ProductsTask/assets/17096257/af404718-ba94-4837-af7e-26b714bd81fc)
+
+![SS(1)](https://github.com/Mirza-Hassan/React_Native_ProductsTask/assets/17096257/79b7c97d-7e6f-46e7-aa25-a2f100c13aea)
